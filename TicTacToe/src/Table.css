@@ -1,0 +1,19 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 13, 2020, 4:28:22 PM
+    Author     : Amira-PC
+*/
+
+.table-view .column-header-background .label{
+     -fx-background-color: transparent; 
+     -fx-font-weight:bold;
+     -fx-font-size: 20px;
+     -fx-padding: 15px;
+     -fx-font-family: "Berlin Sans FB Demi";
+    -fx-text-fill:black;
+}
+

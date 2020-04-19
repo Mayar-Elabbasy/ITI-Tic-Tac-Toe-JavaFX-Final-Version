@@ -1,0 +1,59 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 6, 2020, 1:47:12 PM
+    Author     : Mayar-Elabbasy
+*/
+
+#generalStyleForButtons{
+            -fx-background-color: linear-gradient(PALETURQUOISE, #263463),
+                                                          linear-gradient(PALETURQUOISE,PALETURQUOISE), 
+                                                          linear-gradient(PALETURQUOISE, navy), 
+                                                          linear-gradient(rgb(148, 250, 235) 0%,TEAL 50%,TAN 100%),
+                                                          linear-gradient(from 0% 0% to 15% 50%, rgba(255,255,255,0.9), rgba(255,255,255,0)); 
+            -fx-font-family: "Berlin Sans FB Demi Bold";
+            -fx-font-size: 29; 
+            -fx-text-fill:MIDNIGHTBLUE;
+}
+
+#sound{
+            -fx-background-color: linear-gradient(PALETURQUOISE, #263463),
+                                                           linear-gradient(white,PALETURQUOISE), 
+                                                           linear-gradient(PALETURQUOISE, blue), 
+                                                           linear-gradient(rgb(148, 250, 235) 0%,black 50%,TAN 100%),
+                                                           linear-gradient(from 0% 0% to 15% 50%, rgba(255,255,255,0.9), rgba(255,255,255,0)); 
+            -fx-background-radius: 30;   
+            -fx-font-family: "Berlin Sans FB Demi Bold";
+            -fx-width: 254;
+            -fx-height:68;
+            -fx-font-size: 29; 
+            -fx-text-fill:MIDNIGHTBLUE;
+}
+
+#preferencesButtons{
+            -fx-background-color: linear-gradient(PALETURQUOISE, #263463),
+                                                 linear-gradient(white,PALETURQUOISE), 
+                                                linear-gradient(PALETURQUOISE, navy), 
+                                                linear-gradient(rgb(148, 250, 235) 0%,lightblue 50%,TAN 100%),
+                                                 linear-gradient(from 0% 0% to 15% 50%, rgba(255,255,255,0.9), rgba(255,255,255,0)); 
+            -fx-background-radius: 30;   
+            -fx-text-fill:MIDNIGHTBLUE;
+            -fx-font-family: "Berlin Sans FB Demi Bold";
+            -fx-font-size: 29; 
+}
+
+#aprovelButtons{
+            -fx-background-color: linear-gradient(PALETURQUOISE, #263463),
+                                                          linear-gradient(white,PALETURQUOISE), 
+                                                          linear-gradient(PALETURQUOISE, navy), 
+                                                          linear-gradient(rgb(148, 250, 235) 0%,lightblue 50%,TAN 100%),
+                                                          linear-gradient(from 0% 0% to 15% 50%, rgba(255,255,255,0.9), rgba(255,255,255,0)); 
+            -fx-background-radius: 30;   
+            -fx-font-family: "Berlin Sans FB Demi Bold";
+            -fx-font-size: 20; 
+    
+}
+

@@ -1,0 +1,62 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 13, 2020, 4:28:22 PM
+    Author     : Mayar-Elabbasy
+*/
+
+.table-view .column-header-background .label{
+     -fx-background-color: transparent; 
+     -fx-font-weight:bold;
+     -fx-font-size: 20px;
+     -fx-padding: 15px;
+     -fx-font-family: "Berlin Sans FB Demi";
+    -fx-text-fill:black;
+}
+
+.table-view .scroll-bar * {
+   -fx-background-color: royalblue;
+   -fx-background-radius: 20px;
+}
+
+.table-view  .scroll-bar:horizontal .thumb,
+.table-view  .scroll-bar:vertical .thumb {
+    -fx-background-color:derive(blue,100%);
+    -fx-background-radius: 10px;
+}
+
+.tableView{
+    -fx-background-color:NAVY;
+    -fx-padding: 0.15px;
+    -fx-font-size: 15px;
+    -fx-font-weight:bold;
+    -fx-font-family: "Berlin Sans FB Demi";
+    -fx-width: 685;
+    -fx-height:500;
+}
+
+#col{
+      -fx-background-color: 
+            linear-gradient(rgb(148, 250, 235) 0%,lightblue 50%,TAN 100%),
+            linear-gradient(from 0% 0% to 15% 50%,rgb(119, 157, 142), rgba(255,255,255,0)); 
+       -fx-text-fill:navy;
+       -fx-padding: 10px;
+      -fx-font-size: 15px; 
+      -fx-font-weight:bold; 
+     -fx-font-family: "Berlin Sans FB Demi";
+}
+
+#tableViewPane{
+     -fx-background-color:NAVY;
+      -fx-padding: 5px;
+      -fx-font-size: 15px;
+      -fx-font-weight:bold;
+      -fx-font-family: "Berlin Sans FB Demi";
+     -fx-width: 400;
+     -fx-height:200;
+}
+
+
