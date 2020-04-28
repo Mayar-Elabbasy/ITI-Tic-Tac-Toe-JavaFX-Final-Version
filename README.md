@@ -12,12 +12,12 @@
 
 ## Contributors and responsabilites
 
-###Team Java Monsters:
-✿ Amira Abdelhalim: was responsible for game logic and Database.
-✿ Gehad Samir: was responsible for game logic and Database.
-✿ Mayar Yasser Elabbasy: was responsible for GUI and switching scenes.
-✿ Muhammed Alaeldien:  was responsible for Network.
-✿ Osama Ragab:  was responsible for game logic and Database.
+### Team Java Monsters:
+* Amira Abdelhalim: was responsible for game logic and Database.
+* Gehad Samir: was responsible for game logic and Database.
+* Mayar Yasser Elabbasy: was responsible for GUI and switching scenes.
+* Muhammed Alaeldien:  was responsible for Network.
+* Osama Ragab:  was responsible for game logic and Database.
 
   
 ## Contributing
